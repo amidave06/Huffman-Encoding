@@ -1,20 +1,3 @@
-/*  Student information for assignment:
- *
- *  On OUR honor, Ami and Sneha, this programming assignment is OUR own work
- *  and WE have not provided this code to any other student.
- *
- *  Number of slip days used: 2
- *
- *  Student 1 (Student whose Canvas account is being used): Ami Dave
- *  UTEID: ad56333
- *  email address: amidave@utexas.edu
- *  Grader name: Devon
- *
- *  Student 2: Sneha Bhamidipaty
- *  UTEID: ssb3462
- *  email address: snehab@utexas.edu
- */
-
 import java.util.HashMap;
 
 public class Compression {
